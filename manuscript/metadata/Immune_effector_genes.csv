@@ -1,0 +1,63 @@
+﻿Gene;Description;SYMBOL;ID;pathway
+FBgn0012042;Attacin-A;AttA;CG10146;IMD_dominant
+ FBgn0038530;Attacin-D;AttD;CG7629;IMD_dominant
+FBgn0041579;Attacin-C;AttC;CG4740;IMD_dominant
+FBgn0041581;Attacin-B;AttB;CG18372;IMD_dominant
+FBgn0000276;Cecropin A1;CecA1;CG1365;IMD_dominant
+FBgn0000277;Cecropin A2;CecA2;CG1367;IMD_dominant
+FBgn0000278;Cecropin B;CecB;CG1878;IMD_dominant
+FBgn0000279;Cecropin C;CecC;CG1373 ;IMD_dominant
+ FBgn0014865;Metchnikowin;Mtk;CG8175;IMD_dominant
+FBgn0262881;Metchnikowin-like 1;Mtkl1;CG43236;IMD_dominant
+FBgn0264541;Metchnikowin-like 2;Mtkl2;CG43920;IMD_dominant
+FBgn0004240;Diptericin A;DptA;CG12763;IMD_dominant
+FBgn0034407;Diptericin B;DptB;CG10794;IMD_dominant
+FBgn0010388;Drosocin ;Dro;CG10816;IMD_dominant
+FBgn0010385;Defensin;Def;CG1385;IMD_dominant
+FBgn0265577;Induced by Infection;IBIN;CG44404;IMD_dominant
+FBgn0067903;Paillotin;Pai;CG33706;IMD_dominant
+FBgn0052185;elevated during infection;edin;CG32185;IMD_dominant
+FBgn0283461;Drosomycin;Drs;CG10810;Toll_dominant
+FBgn0035434;Drosomycin-like 5;Drsl5;CG10812;Toll_dominant
+FBgn0052283;Drosomycin-like 3;Drsl3;CG32283;Toll_dominant
+FBgn0052268;Drosomycin-like 6;Drsl6;CG32268;Toll_dominant
+FBgn0052282;Drosomycin-like 4;Drsl4;CG32282;Toll_dominant
+FBgn0052274;Drosomycin-like 1;Drsl1;CG32274;Toll_dominant
+ FBgn0052279;Drosomycin-like 2;Drsl2;CG32279;Toll_dominant
+FBgn0053470;Baramicin A1;BaraA1;CG33470;Toll_dominant
+FBgn0288447;Baramicin A2;BaraA2;CG18279;Toll_dominant
+FBgn0038930;Bomanin Tailed 3;BomT3;CG5778;Toll_dominant
+FBgn0040582;Bomanin Bicipital 3;BomBc3;CG5791;Toll_dominant
+FBgn0040734;Bomanin Short 5;BomS5;CG15065;Toll_dominant
+FBgn0034331;Bomanin Bicipital 2;BomBc2;CG15067;Toll_dominant
+FBgn0040733;Bomanin Short 6 ;BomS6;CG15068;Toll_dominant
+FBgn0040735;Bomanin Tailed 2;BomT2;CG16836;Toll_dominant
+FBgn0034330;Bomanin Short 4;BomS4;CG18107;Toll_dominant
+FBgn0262838;Bomanin Tailed 1;BomT1;CG43202;Toll_dominant
+FBgn0034329;Bomanin Short 1;BomS1;CG18108;Toll_dominant
+FBgn0025583;Bomanin Short 2;BomS2;CG18106;Toll_dominant
+FBgn0040736;Bomanin Short 3;BomS3;CG16844;Toll_dominant
+FBgn0034328;Bomanin Bicipital 1;BomBc1;CG15066;Toll_dominant
+FBgn0040653;"	Daisho1";Dso1;CG15231;Toll_dominant
+FBgn0067905;"	Daisho2";Dso2;CG33990;Toll_dominant
+FBgn0034512;Bombardier;Bbd;CG18067;Toll_dominant
+FBgn0028396;Turandot A;TotA;CG31509;JAK_STAT
+FBgn0031701;Turandot M;TotM;CG14027;JAK_STAT
+FBgn0044811;Turandot F;TotF;CG31691;unknown
+FBgn0044812;Turandot C;TotC;CG31508;JAK_STAT
+FBgn0053117;Turandot E;TotE;CG33117;unknown
+FBgn0038838;Turandot B;TotB;CG5609;JAK_STAT
+FBgn0044809;Turandot Z;TotZ;CG31507;JAK_STAT
+FBgn0044810;Turandot X;TotX;CG31193;JAK_STAT
+FBgn0043841;virus-induced RNA 1;vir-1;CG31764;JAK_STAT
+FBgn0039239;Sting-regulated gene 1;Srg1;CG13641;cGAS_STING
+FBgn0262007;Sting-regulated gene 2;Srg2;CG42825;cGAS_STING
+FBgn0053926;Sting-regulated gene 3;Srg3;CG33926;cGAS_STING
+FBgn0035770;pastrel;pst;CG8588;cGAS_STING
+FBgn0037562;Nazo;Nazo;CG11671;cGAS_STING
+FBgn0000094;Andropin;Anp;CG1361;unclassified
+FBgn0033593;Listericin;Lstn;CG9080;unclassified
+FBgn0266405;shenshu;shen;CG45045;unclassified
+FBgn0034741;CG4269;;CG4269;unclassified
+FBgn0053493;CG33493;;CG33493;unclassified
+FBgn0034511;GNBP-like 3;GNBP-like 3;CG13422;unclassified

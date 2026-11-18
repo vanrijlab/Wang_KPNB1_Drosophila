@@ -1,0 +1,7 @@
+library;Name;condition;replicate
+49281_Exp339_SeqOnly_HT_RNA_seq_WT_1_L05;WT_1;wildtype;1
+49282_Exp339_SeqOnly_HT_RNA_seq_WT_2_L06;WT_2;wildtype;2
+49283_Exp339_SeqOnly_HT_RNA_seq_WT_3_L12;WT_3;wildtype;3
+49284_Exp339_SeqOnly_HT_RNA_seq_KO_1_L02;Fs2KetKD_1;Fs2Ket_KD;1
+49285_Exp339_SeqOnly_HT_RNA_seq_KO_2_L04;Fs2KetKD_2;Fs2Ket_KD;2
+49286_Exp339_SeqOnly_HT_RNA_seq_KO_3_L07;Fs2KetKD_3;Fs2Ket_KD;3

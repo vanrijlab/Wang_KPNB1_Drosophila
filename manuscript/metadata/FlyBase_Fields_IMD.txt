@@ -1,0 +1,20 @@
+#SUBMITTED ID	FBID_KEY	ANNOTATION_SYMBOL	NAME	PATHWAY	SYMBOL
+FBgn0000173	FBgn0000173	CG18319	bendless	Protein modification; protein ubiquitination.	ben
+FBgn0000229	FBgn0000229	CG5680	basket	-	bsk
+FBgn0015247	FBgn0015247	CG8293	Death-associated inhibitor of apoptosis 2	-	Diap2
+FBgn0020381	FBgn0020381	CG7486	Death related ced-3/Nedd2-like caspase	-	Dredd
+FBgn0011217	FBgn0011217	CG7425	effete	Protein modification; protein ubiquitination.	eff
+FBgn0038928	FBgn0038928	CG12297	Fas-associated death domain	-	Fadd
+FBgn0038197	FBgn0038197	CG3143	forkhead box, sub-group O	-	foxo
+FBgn0010303	FBgn0010303	CG4353	hemipterous	-	hep
+FBgn0024222	FBgn0024222	CG4201	I-kappaB kinase beta	-	IKKbeta
+FBgn0013983	FBgn0013983	CG5576	immune deficiency	-	imd
+FBgn0001291	FBgn0001291	CG2275	Jun-related antigen	-	Jra
+FBgn0001297	FBgn0001297	CG33956	kayak	-	kay
+FBgn0026323	FBgn0026323	CG18492	TGF-β activated kinase 1	-	Tak1
+FBgn0035976	FBgn0035976	CG4432	Peptidoglycan recognition protein LC	-	PGRP-LC
+FBgn0041205	FBgn0041205	CG16910	kenny	-	key	
+FBgn0030695	FBgn0030695	CG8995	Peptidoglycan recognition protein LE	-	PGRP-LE
+FBgn0086358	FBgn0086358	CG7417	TAK1-associated binding protein 2	-	Tab2	
+FBgn0035601	FBgn0035601	CG10640	Ubiquitin-conjugating enzyme variant 1A	-	Uev1A
+FBgn0014018	FBgn0014018	CG11992	Relish	-	Rel

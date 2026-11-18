@@ -1,0 +1,8 @@
+#SUBMITTED ID	FBID_KEY	ANNOTATION_SYMBOL	NAME	PATHWAY	SYMBOL
+FBgn0262579	FBgn0262579	CG43119	Sterile alpha and Armadillo motif	-	Sarm
+FBgn0016917	FBgn0016917	CG4257	Signal-transducer and activator of transcription protein at 92E	-	Stat92E
+FBgn0043903	FBgn0043903	CG14226	domeless	-	dome
+FBgn0004864	FBgn0004864	CG1594	hopscotch	-	hop
+FBgn0004956	FBgn0004956	CG5993	unpaired 1	-	upd1
+FBgn0030904	FBgn0030904	CG5988	unpaired 2	-	upd2
+FBgn0053542	FBgn0053542	CG33542	unpaired 3	-	upd3
